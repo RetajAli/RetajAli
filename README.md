@@ -24,6 +24,6 @@ const retaj = {
   university: "AAST",
   code: ["HTML", "CSS", "JavaScript", "PHP", "Java", "C++", "Python"],
   interests: ["Web Development", "Software Engineering", "Problem Solving"],
-  learning: ["Backend Development", "Databases", "Clean Code"],
+  learning: ["Backend Development", "Databases", "Cybersecurity", "Software Engineering"],
   goal: "Building strong foundations and real-world projects"
 }
