@@ -6,7 +6,6 @@
   <em>
     Software Engineering Student at 
     <a href="https://aast.edu/en/">Arab Academy for Science, Technology & Maritime Transport (AAST)</a>
-    <img src="[https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif](https://i.pinimg.com/originals/99/45/d8/9945d811287778ee6338d0dc4f6ca7d6.png)" width="30">
   </em>
 </p>
 
